@@ -15,7 +15,7 @@ I believe in the power of data and integrating marketing and data it's not only 
 
 ![Meme](0_TzP46XizyLA_n51r.jpg)
 ![Meme2](d-s-m-16meme. data science.jpg)
-![Meme3]([0_TzP46XizyLA_n51r.jpg](https://github.com/gambona/gambona/blob/main/meme3.jpg)
+![Meme3]([meme3.jpg)
 
 [![](https://visitcount.itsvg.in/api?id=JuanPe&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
