@@ -13,7 +13,9 @@ I believe in the power of data and integrating marketing and data it's not only 
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
-![GitHub Logo](0_TzP46XizyLA_n51r.jpg)
+![Meme](0_TzP46XizyLA_n51r.jpg)
+![Meme2](d-s-m-16meme. data science.jpg)
+![Meme3]([0_TzP46XizyLA_n51r.jpg](https://github.com/gambona/gambona/blob/main/meme3.jpg)
 
 [![](https://visitcount.itsvg.in/api?id=JuanPe&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
