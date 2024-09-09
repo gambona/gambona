@@ -1,5 +1,3 @@
-
-Hola, Ola, Olá, Ciao, Hello, Hallo, Bonjour,
 # Digital Marketing & Data Analysis 
 Empowering Startups with Data-Focused Growth Tactics
 
