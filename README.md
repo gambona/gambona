@@ -1,7 +1,6 @@
-4# Digital Marketing & Data Analysis 
-Empowering Startups with Data-Focused Growth Tactics
-
-With a degree in Economics and Business Management, I bring 4+ years of experience in digital marketing, and data analysis. I’ve worked at fast-paced startups like Prontopro and Lori Beds, where I optimized conversion rates (+75%) and scaled growth through A/B testing, CRO, and rebranding. Proficient in web development and design (HTML, CSS, Shopify, Figma), data analysis (Google Analytics, Python, and much more), and paid campaigns (Pinterest, Meta, Google Ads). 
+# Digital Marketing & Data Analysis 
+Empowering Business with Data.
+With a degree in Economics and Business Management, I bring 4+ years of experience in digital marketing, and data analysis. I’ve worked at fast-paced startups like [Prontopro](https://prontopro.es/) and Lori Beds, where I optimized conversion rates (+75%) and scaled growth through A/B testing, CRO, and rebranding. Proficient in web development and design (HTML, CSS, Shopify, Figma), data analysis (Google Analytics, Python, and much more), and paid campaigns (Pinterest, Meta, Google Ads). 
 
 #  💻 Tech Stack: 
 
