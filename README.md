@@ -1,5 +1,5 @@
 # I empower Business with Data.
-## Do you have no clue what Data Science is?
+## What is Data Science?
 
 [![Check this funny video](https://img.youtube.com/vi/uHGlCi9jOWY/0.jpg)](https://www.youtube.com/watch?v=uHGlCi9jOWY)
 
